@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alexandre Vieira!
+## Olá! Me chamo Alexandre!
 
 - 🔭 Iniciando no back-end em Java.
 
